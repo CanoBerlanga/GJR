@@ -1,4 +1,4 @@
-Distributions.jl
+gjrGARCH.jl
 ================
 
 [![Build Status](https://travis-ci.org/JuliaStats/Distributions.jl.png)](https://travis-ci.org/JuliaStats/Distributions.jl)
